@@ -34,7 +34,7 @@ $$Fidelity_{score} = \frac{\sum (Pixels_{native} \cdot Weights_{AI})}{Complexity
 
 > **Policy:** One license key per workstation. Volume licensing available for studios.
 
-**[ → DEPLOY COMMERCIAL LICENSE ON GUMROAD ]**(TU_LINK_DE_GUMROAD_AQUÍ)
+**[ → DEPLOY COMMERCIAL LICENSE ON GUMROAD ]**(https://thepixelversum.gumroad.com/)
 
 ---
 © 2026 **The PixelVersum** | *Industrial-Grade Digital Engineering*
